@@ -1,0 +1,251 @@
+*{
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+body{
+
+background:#000;
+padding-top: 30px;
+padding-bottom: 30px;
+
+
+}
+
+#Contenedor{
+	
+	width:1000px;
+	height:600px;
+	margin-right:auto;
+	margin-left:auto;
+ }
+
+#TituloPagina{
+
+	;
+	height:126px;
+	width:1000px;
+}
+
+#TituloPagina #TituloPagina1{
+
+	background-image:url(tit1.jpg);
+	height:126px;
+	width:126px;
+	float: left;
+opacity:0.95;
+}
+
+
+#TituloPagina #TituloPagina2{
+
+	background-image:url(tit2.jpg);
+	height:126px;
+	width:874px;
+	float: left;
+opacity:0.99;
+}
+
+ 
+
+#BarNav{
+
+        
+	height:35px;
+	width:500px;
+        float: left;
+}
+
+
+
+#BarNav:before{
+	content:"";
+	height:35px;
+	width:500px;
+	background-color: #000;
+        position:absolute;
+        opacity:0.8;
+}
+
+
+
+#BarNav p {
+
+	position:relative;
+        color: #fff;
+
+}
+
+
+
+
+
+
+#BarNav1{
+
+        
+	height:35px;
+	width:500px;
+        float: left;
+}
+
+
+
+#BarNav1:before{
+	content:"";
+	height:35px;
+	width:500px;
+	background-color: #000;
+        position:absolute;
+        opacity:0.8;
+}
+
+
+
+#BarNav1 p {
+
+	position:relative;
+        color: #fff;
+
+}
+
+
+
+
+
+
+
+
+
+
+#Contenido{
+	
+	height:414px;
+	width:1000px;
+}
+
+
+
+#Contenido #Contenido1{
+        color:#000;
+	background:#fff;
+	height:100%;
+	width:500px;
+	float: left;
+        opacity:0.9;
+
+
+        overflow:scroll;
+        overflow-x:hidden;
+        visibility:visible;
+
+
+
+}
+
+
+
+
+
+
+
+
+#Contenido #Contenido2{
+        color:#000;
+	background:#fff;
+	height:100%;
+	width:500px;
+	float: left;
+        opacity:0.9;
+
+
+
+
+}
+
+
+
+
+#Q1{
+
+        
+	height:35px;
+	width:200px;
+float: left;
+}
+
+
+
+#Q1:before{
+	content:"";
+	height:35px;
+	width:200px;
+	background-color: #000;
+        position:absolute;
+        opacity:0;
+}
+
+
+
+#Q1 p {
+
+	position:relative;
+color: #fff;
+
+}
+
+
+
+
+
+
+#Q2{
+
+        
+	height:35px;
+	width:800px;
+float: left;
+}
+
+
+
+#Q2:before{
+	content:"";
+	height:35px;
+	width:800px;
+	background-color: #000;
+        position:absolute;
+        opacity:0;
+}
+
+
+
+#Q2 p {
+
+	position:relative;
+color: #fff;
+
+}
+
+
+
+#Q2 a {
+
+	text-decoration: none;
+	color: #fff;
+	font: 16px Verdana;
+	display: block;
+	
+}	
+
+
+
+
+
+
+
+
+
+
+
